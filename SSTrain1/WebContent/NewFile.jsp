@@ -8,7 +8,7 @@
 </head>
 <body>
 
-
+我们都是中国人！
 
 </body>
 </html>
