@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\All_Soft_install\2019101821_jdk1.8_install" version="1.8.0_191">
+<bootpath>
+<entry path="D:\All_Soft_install\2019101821_jdk1.8_install\jre\lib\resources.jar"/>
+<entry path="D:\All_Soft_install\2019101821_jdk1.8_install\jre\lib\rt.jar"/>
+<entry path="D:\All_Soft_install\2019101821_jdk1.8_install\jre\lib\sunrsasign.jar"/>
+<entry path="D:\All_Soft_install\2019101821_jdk1.8_install\jre\lib\jsse.jar"/>
+<entry path="D:\All_Soft_install\2019101821_jdk1.8_install\jre\lib\jce.jar"/>
+<entry path="D:\All_Soft_install\2019101821_jdk1.8_install\jre\lib\charsets.jar"/>
+<entry path="D:\All_Soft_install\2019101821_jdk1.8_install\jre\lib\jfr.jar"/>
+<entry path="D:\All_Soft_install\2019101821_jdk1.8_install\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\All_Soft_install\2019101821_jdk1.8_install\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\All_Soft_install\2019101821_jdk1.8_install\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
