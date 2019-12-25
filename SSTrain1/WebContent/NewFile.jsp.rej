@@ -1,0 +1,10 @@
+diff a/SSTrain1/WebContent/NewFile.jsp b/SSTrain1/WebContent/NewFile.jsp	(rejected hunks)
+@@ -21,5 +21,7 @@
+ 		</table>
+ 	</form>
+ 
++	超级强大的Git功能
++
+ </body>
+ </html>
+\ No newline at end of file

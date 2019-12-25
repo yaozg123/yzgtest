@@ -1,2 +1,6 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
+=======
+Class-Path: 
+>>>>>>> masterson
 
